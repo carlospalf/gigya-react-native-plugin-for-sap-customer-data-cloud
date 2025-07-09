@@ -7,6 +7,7 @@
 
 import Foundation
 @_exported import Gigya
+@objc public protocol ExposedProviderWrapperProtocol: ProviderWrapperProtocol {}
 import React
 
 @objc(GigyaSdk)
