@@ -21,7 +21,6 @@ Pod::Spec.new do |s|
 
   s.dependency "React"
   s.dependency 'Gigya', '~> 1.7.5'
-  s.dependency 'GigyaSwift', '~> 1.7.5'
   # ...
   # s.dependency "..."
 end

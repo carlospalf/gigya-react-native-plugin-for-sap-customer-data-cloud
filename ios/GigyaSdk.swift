@@ -6,10 +6,8 @@
 //
 
 import Foundation
-import Gigya
+@_exported import Gigya
 import React
-
-@_exported import GigyaSwift
 
 @objc(GigyaSdk)
 public class GigyaSdk: NSObject {
