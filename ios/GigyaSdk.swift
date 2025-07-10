@@ -9,8 +9,6 @@ import Foundation
 import Gigya
 import React
 
-@_exported import GigyaSwift
-
 @objc(GigyaSdk)
 public class GigyaSdk: NSObject {
     static var gigya: GigyaSdkWrapperProtocol?
